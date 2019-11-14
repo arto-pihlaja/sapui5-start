@@ -1,0 +1,14 @@
+<mvc:View controllerName="Arto.scratchApp.controller.App" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true">
+	<Shell>
+		<App id="app">
+			<!--
+			<pages>
+				<Page title="hard coded title">
+					<content>
+							<mvc:XMLView viewName="Arto.scratchApp.view.Products"></mvc:XMLView> 
+					</content>
+				</Page>
+			</pages> -->
+		</App>
+	</Shell>
+</mvc:View>
